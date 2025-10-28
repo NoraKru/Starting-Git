@@ -1,5 +1,7 @@
 # Starting-Git
 
-hello world!hhh
+hello world!
 
-wie gehts
+wie geht es dir?
+
+bisschen besser schreiben
